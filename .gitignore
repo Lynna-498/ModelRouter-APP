@@ -1,0 +1,11 @@
+.DS_Store
+build/
+DerivedData/
+.build/
+.build-release/
+*.dmg
+ModelRouter-APP-*-source.zip
+xcuserdata/
+*.xcuserstate
+.zcode/
+.zcode-worktree/
